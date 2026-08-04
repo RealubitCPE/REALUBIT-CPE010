@@ -14,7 +14,7 @@ int main(){
     displayAll<char>();
     std::cout<<"\n -----Popping all the elements -----\n";
 
-    while(isEmpty<char>()){
+    while(!isEmpty<char>()){
         std::cout<<"Popped: "<<pop<char>()<<std::endl;
     }
 
