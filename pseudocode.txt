@@ -1,0 +1,11 @@
+Algorithm for 
+
+Step 1: Define class for Stack with Array Implementation
+Step 2: Make a function for checking if the list is Empty or Full
+Step 3: Function for adding elements inside the list
+Step 4: Make a Opening and Closing function where the closing and opening should match
+Step 5: Make a function that checks if the first and last are the same
+
+
+Step 2: Define class for Queues with Linked List Implementation
+Step 3: 
