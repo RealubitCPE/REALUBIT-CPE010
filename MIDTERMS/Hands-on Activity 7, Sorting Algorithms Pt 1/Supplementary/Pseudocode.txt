@@ -1,0 +1,11 @@
+START
+    INITIALIZE candidate names, and array for storing values
+    INTIALIZE loop for generating 100 random values with a limit of only 1 to 5 numbers
+    DISPLAY unsorted array
+    DISPLAY sorted array with insertion sorting implementation from sortingAlgo.h
+    DISPLAY sorted array with bubble sorting implementation from sortingAlgo.h
+    DISPLAY sorted array with selection sorting implementation from sortingAlgo.h
+    IMPLEMENT for loop to increment the values for each vote to the candidate
+    DISPLAY the total tallies of each candidate
+    DISPLAY the winner of the highest count of tally
+END
