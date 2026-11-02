@@ -29,31 +29,33 @@ Technological Institute of the Philippines · A.Y. 2026–2027, 1st Semester
 
 ## Topics
 
+Each topic links to its hands-on activity folder.
+
 ### Prelim
 
-| #  | Topic                                              | Folder                                                                         |
-| -- | -------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 1  | Introduction to Data Structures and Algorithms     | [prelim/01-introduction](./prelim/01-introduction)                             |
-| 2  | Arrays, Pointers and Dynamic Memory Allocation     | [prelim/02-arrays-pointers-dma](./prelim/02-arrays-pointers-dma)               |
-| 3  | Linked Lists                                       | [prelim/03-linked-lists](./prelim/03-linked-lists)                             |
-| 4  | Stacks                                             | [prelim/04-stacks](./prelim/04-stacks)                                         |
-| 5  | Queues                                             | [prelim/05-queues](./prelim/05-queues)                                         |
+| #  | Topic                                                                                                                                  |
+| -- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | [Introduction to Data Structures and Algorithms](./PRELIMS/Hands-on%20Activity%201.1%20Basic%20C++%20Programming)                       |
+| 2  | [Arrays, Pointers and Dynamic Memory Allocation](./PRELIMS/Hands-on%20Activity%202.1%20Arrays,%20Pointers%20and%20Dynamic%20Memory%20Allocation) |
+| 3  | [Linked Lists](./PRELIMS/Hands-on%20Activity%203.1%20Linked%20Lists)                                                                    |
+| 4  | [Stacks](./PRELIMS/Hands-on%20Activity%204.1%20Stacks)                                                                                  |
+| 5  | [Queues](./PRELIMS/Hands-on%20Activity%205.1%20Queues)                                                                                  |
 
 ### Midterm
 
-| #  | Topic                                              | Folder                                                                         |
-| -- | -------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 6  | Searching Techniques                               | [midterm/06-searching](./midterm/06-searching)                                 |
-| 7  | Sorting Algorithms Pt 1                            | [midterm/07-sorting-pt1](./midterm/07-sorting-pt1)                             |
-| 8  | Sorting Algorithms Pt 2                            | [midterm/08-sorting-pt2](./midterm/08-sorting-pt2)                             |
-| 9  | Trees                                              | [midterm/09-trees](./midterm/09-trees)                                         |
-| 10 | Graphs                                             | [midterm/10-graphs](./midterm/10-graphs)                                       |
+| #  | Topic                                                                                                                                  |
+| -- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 6  | [Searching Techniques](./MIDTERMS/Hands-on%20Activity%206,%20Searching%20Techniques)                                                    |
+| 7  | [Sorting Algorithms Pt 1](./MIDTERMS/Hands-on%20Activity%207,%20Sorting%20Algorithms%20Pt%201)                                          |
+| 8  | [Sorting Algorithms Pt 2](./MIDTERMS/Hands-on%20Activity%208,%20Sorting%20Algorithms%20Pt%202)                                          |
+| 9  | [Trees](./MIDTERMS/Hands-on%20Activity%209,%20Trees)                                                                                    |
+| 10 | [Graphs](./MIDTERMS/Hands-on%20Activity%2010,%20Graphs)                                                                                 |
 
 ### Final
 
-| #  | Topic                                              | Folder                                                                         |
-| -- | -------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 11 | Basic Algorithm Analysis                           | [final/11-algorithm-analysis](./final/11-algorithm-analysis)                   |
-| 12 | Algorithmic Strategies                             | [final/12-algorithmic-strategies](./final/12-algorithmic-strategies)           |
-| 13 | Parallel Algorithms and Multithreading             | [final/13-parallel-multithreading](./final/13-parallel-multithreading)         |
-| 14 | Algorithm Complexity                               | [final/14-algorithm-complexity](./final/14-algorithm-complexity)               |
+| #  | Topic                                                                                                                                  |
+| -- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 11 | [Basic Algorithm Analysis](./FINALS/Hands-on%20Activity%2011%20Basic%20Algorithm%20Analysis)                                            |
+| 12 | [Algorithmic Strategies](./FINALS/Hands-on%20Activity%2012%20Algorithmic%20Strategies)                                                  |
+| 13 | [Parallel Algorithms and Multithreading](./FINALS/Hands-on%20Activity%2013%20Parallel%20Algorithms%20and%20Multithreading)               |
+| 14 | [Algorithm Complexity](./FINALS/Hands-on%20Activity%2014%20Algorithm%20Complexity)                                                      |
