@@ -4,7 +4,7 @@ Technological Institute of the Philippines · A.Y. 2026–2027, 1st Semester
 
 |                    |                                        |
 | ------------------ | -------------------------------------- |
-| **Student**        | Seth [Last Name]                       |
+| **Student**        | Realubit, Seth Andrew I.                       |
 | **Course Code**    | CPE 010                                |
 | **Credits**        | 2 units (laboratory) · 6 hours/week    |
 | **Prerequisites**  | CPE 009A, MATH 006                     |
