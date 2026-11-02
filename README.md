@@ -4,7 +4,7 @@ Technological Institute of the Philippines · A.Y. 2026–2027, 1st Semester
 
 |                    |                                        |
 | ------------------ | -------------------------------------- |
-| **Student**        | Realubit, Seth Andrew I.                       |
+| **Student**        | Realubit, Seth Andrew I.               |
 | **Course Code**    | CPE 010                                |
 | **Credits**        | 2 units (laboratory) · 6 hours/week    |
 | **Prerequisites**  | CPE 009A, MATH 006                     |
@@ -28,8 +28,6 @@ Technological Institute of the Philippines · A.Y. 2026–2027, 1st Semester
 | CILO 3 | Build efficient algorithms based on selected data structures using good programming styles in C++.              |
 
 ## Topics
-
-Each topic links to its hands-on activity folder.
 
 ### Prelim
 
